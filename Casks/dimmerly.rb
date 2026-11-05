@@ -1,6 +1,6 @@
 cask "dimmerly" do
-  version "1.4.1"
-  sha256 "29fc2e69ed023df35ea3d205e082b5accd8a9af8c60cafdcc5574ab3d37feb41"
+  version "1.4.2"
+  sha256 "171f6f809bc1bfa7b974b5fb54cca21f4ac771f17fe53a8adf349227d5fb6cbb"
 
   url "https://github.com/olujicz/Dimmerly/releases/download/v#{version}/Dimmerly-#{version}.dmg"
   name "Dimmerly"
